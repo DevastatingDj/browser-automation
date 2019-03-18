@@ -1,4 +1,4 @@
-# ticket-automation
+# browser-automation for railway ticket reservation
 Using Selenium webdriver through selenium package in python, chrome browser is automated to book railway ticket
 
 ## Setup
